@@ -63,3 +63,4 @@ To make sure the framework work normally, we have trained the model 240 epochs w
 * ~~Complete the load_weights function of model.(Done)~~
 * Add the callback for eval mAP after each batch end
 * Train on MSCOCO
+*https://arxiv.org/pdf/1605.06409v2.pdf
